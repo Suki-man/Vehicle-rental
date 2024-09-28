@@ -1,0 +1,2 @@
+car,dead,C:\Users\abuta\Downloads\8e7cf820d304a8720afc8981c5043e3f-removebg-preview.png,Unavailable
+asd,asdasd,C:\Users\abuta\Downloads\74091317fbfa2b66a70e109c74f59100-removebg-preview.png,Available
